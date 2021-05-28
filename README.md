@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sumanshresthaa
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently developing Flutter applications
 - 📫 Reach me via sumanshrestha360@gmail.com
 
 <!---

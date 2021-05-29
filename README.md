@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumanshresthaa
-- 🌱 I’m currently developing Flutter applications
+- 🌱 I’m currently developing cross-platform mobile applications
 - 📫 Reach me via sumanshrestha360@gmail.com
 
 <!---
